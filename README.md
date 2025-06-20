@@ -24,10 +24,10 @@ gcc nqueens.c -o nqueens
   ./nqueens
 
 ## Output Screenshots
-######n=4
+n=4
 
 ![image](https://github.com/user-attachments/assets/71517af7-5fd0-4615-9bf6-fa257b89d3d2)
 
-######n=8
+n=8
 
  ![image](https://github.com/user-attachments/assets/3519220b-6c2a-42af-bf93-7ab6b678dbf4)
